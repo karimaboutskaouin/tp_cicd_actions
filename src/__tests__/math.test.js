@@ -1,4 +1,4 @@
-const { add, multiply, factorial, subtract } = require('../src/math');
+const { add, multiply, factorial, subtract } = require('../math');
 
 describe('add', () => {
   test('additionne deux nombres positifs', () => {
